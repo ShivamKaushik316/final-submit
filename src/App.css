@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --h1: "Ariomo";
+
+  /* font sizes */
+  --font-size-xl: 1.25rem;
+  --font-size-base: 1rem;
+  --h1-size: 3rem;
+
+  /* Colors */
+  --kinetic-researcher: #255ed3;
+  --primary-white: #fff;
+
+  /* Paddings */
+  --padding-23xl: 2.625rem;
+  --padding-sm: 0.875rem;
+}
